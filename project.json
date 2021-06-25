@@ -45,6 +45,11 @@
         "editingStatus": "InProgress",
         "testCaseId": "5ca9d9d9-5009-4328-9526-38e362b43281",
         "fileName": "SauceLabs.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "bf27bf2e-50c6-4a7a-a408-e45c8e81ee34",
+        "fileName": "TestCase2.xaml"
       }
     ],
     "modernBehavior": false
